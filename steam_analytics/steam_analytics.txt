@@ -51,7 +51,6 @@ steam_analytics/
 ├── analysis/              # 분석 모듈
 │   ├── genre_analysis.py           # 장르 분석
 │   ├── historical_trend_analysis.py # 히스토리컬 트렌드 분석
-│   ├── new_releases_analysis.py    # 신규 출시 분석
 │   └── top10_overview.py           # Top 10 개요
 │
 ├── dashboard/             # 대시보드

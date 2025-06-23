@@ -122,25 +122,17 @@ steam_analytics/
 ├── scraper/               # 데이터 수집 모듈
 │   ├── fetch_realtime_top100.py    # 실시간 Top 100 게임 데이터
 │   ├── fetch_game_metadata.py      # 게임 메타데이터 수집
-│   ├── fetch_new_releases.py       # 신규 출시 게임 데이터
 │   └── config.py                   # 설정 파일
 │
-├── analysis/              # 분석 모듈
-│   ├── genre_analysis.py           # 장르 분석
-│   ├── historical_trend_analysis.py # 히스토리컬 트렌드 분석
-│   ├── new_releases_analysis.py    # 신규 출시 분석
-│   └── top10_overview.py           # Top 10 개요
-│
 ├── dashboard/             # 대시보드
-│   ├── streamlit_app.py            # 메인 Streamlit 앱
+│   ├── streamlit_app.py            # 메인 Streamlit 앱 (4가지 기능)
 │   └── static/
 │       └── style.css               # CSS 스타일
 │
 └── data/                  # 데이터 저장소
     └── raw/               # 원본 데이터
         ├── top100_games_*.json     # Top 100 게임 데이터
-        ├── game_metadata_*.json    # 게임 메타데이터
-        └── new_releases_*.json     # 신규 출시 데이터
+        └── game_metadata_*.json    # 게임 메타데이터
 ```
 
 ## 🤝 기여하기
@@ -157,4 +149,11 @@ steam_analytics/
 
 ## 📞 문의
 
-프로젝트에 대한 문의사항이 있으시면 이슈를 생성해 주세요. 
+프로젝트에 대한 문의사항이 있으시면 이슈를 생성해 주세요.
+
+## ⚡️ 로컬 실행 vs. 배포(Cloud) 실행 안내
+
+- **로컬 실행**: 직접 스크레이퍼를 돌려 최신 데이터를 생성/분석할 수 있습니다. (스크레이퍼 실행 시 requirements.txt의 주석 처리된 패키지도 설치 필요)
+- **배포(Cloud) 실행**: 샘플 데이터가 포함되어 있으므로 별도의 데이터 수집 없이 바로 대시보드가 동작합니다.
+- **샘플 데이터 생성**: 필요시 `python create_sample_data.py`로 샘플 데이터를 생성할 수 있습니다.
+- **데이터 파일 관리**: 로컬에서는 대용량 데이터가 쌓일 수 있으니, `.gitignore`에서 데이터 파일은 git에 포함되지 않도록 관리합니다. 

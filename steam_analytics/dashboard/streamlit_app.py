@@ -5,11 +5,8 @@ import os
 from PIL import Image
 import sys
 from pathlib import Path
-from datetime import datetime
-import time
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.font_manager as fm
 
 # Add the project root directory to Python path
 project_root = str(Path(__file__).parent.parent.parent)
@@ -20,17 +17,6 @@ if project_root not in sys.path:
 scraper_path = str(Path(__file__).parent.parent / "scraper")
 if scraper_path not in sys.path:
     sys.path.append(scraper_path)
-
-# --- DEBUGGING PRINTS ---
-print(f"DEBUG: Project Root Path added to sys.path: {project_root}")
-print(f"DEBUG: Scraper Path added to sys.path: {scraper_path}")
-print(f"DEBUG: Current sys.path: {sys.path}")
-# --- END DEBUGGING PRINTS ---
-
-# Modified imports to use absolute path from steam_analytics package
-from steam_analytics.scraper.config import STEAM_API_KEY
-from steam_analytics.scraper.fetch_realtime_top100 import SteamDataFetcher
-from steam_analytics.scraper.fetch_game_metadata import SteamGameMetadata
 
 # 한글 폰트 설정
 plt.rcParams['font.family'] = 'DejaVu Sans'
@@ -79,11 +65,6 @@ def load_css(file_name):
     css_path = os.path.join(os.path.dirname(__file__), file_name)
     with open(css_path) as f:
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
-def load_image(path):
-    if os.path.exists(path):
-        return Image.open(path)
-    return None
 
 def main():
     load_css("static/style.css")

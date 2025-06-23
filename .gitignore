@@ -114,12 +114,12 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# Data files (optional - you can remove this if you want to include sample data)
-# data/raw/*.json
-# data/raw/country_stats/
-# *.png
-# *.jpg
-# *.jpeg
+# Data files (로컬 개발 시에는 제외)
+data/raw/*.json
+data/raw/country_stats/
+*.png
+*.jpg
+*.jpeg
 
 # Chrome driver
 chromedriver.exe
