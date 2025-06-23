@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "avg_players": 681704,
+    "gain": "",
+    "peak_players": 1725815
+  },
+  {
+    "rank": 2,
+    "appid": 570,
+    "name": "Dota 2",
+    "avg_players": 262762,
+    "gain": "",
+    "peak_players": 657074
+  },
+  {
+    "rank": 3,
+    "appid": 3419430,
+    "name": "Bongo Cat",
+    "avg_players": 145373,
+    "gain": "",
+    "peak_players": 192501
+  },
+  {
+    "rank": 4,
+    "appid": 1172710,
+    "name": "Dune: Awakening",
+    "avg_players": 130136,
+    "gain": "",
+    "peak_players": 189126
+  },
+  {
+    "rank": 5,
+    "appid": 359550,
+    "name": "Tom Clancy's Rainbow Six® Siege X",
+    "avg_players": 108129,
+    "gain": "",
+    "peak_players": 141309
+  },
+  {
+    "rank": 6,
+    "appid": 2767030,
+    "name": "Marvel Rivals",
+    "avg_players": 103064,
+    "gain": "",
+    "peak_players": 189945
+  },
+  {
+    "rank": 7,
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "avg_players": 101037,
+    "gain": "",
+    "peak_players": 779352
+  },
+  {
+    "rank": 8,
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "avg_players": 95615,
+    "gain": "",
+    "peak_players": 240640
+  },
+  {
+    "rank": 9,
+    "appid": 2923300,
+    "name": "Banana",
+    "avg_players": 89495,
+    "gain": "",
+    "peak_players": 123469
+  },
+  {
+    "rank": 10,
+    "appid": 252490,
+    "name": "Rust",
+    "avg_players": 78879,
+    "gain": "",
+    "peak_players": 191730
+  },
+  {
+    "rank": 11,
+    "appid": 238960,
+    "name": "Path of Exile",
+    "avg_players": 75246,
+    "gain": "",
+    "peak_players": 178443
+  },
+  {
+    "rank": 12,
+    "appid": 1938090,
+    "name": "Call of Duty®",
+    "avg_players": 66625,
+    "gain": "",
+    "peak_players": 104112
+  },
+  {
+    "rank": 13,
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "avg_players": 60108,
+    "gain": "",
+    "peak_players": 117677
+  },
+  {
+    "rank": 14,
+    "appid": 1172470,
+    "name": "Apex Legends",
+    "avg_players": 52811,
+    "gain": "",
+    "peak_players": 256964
+  },
+  {
+    "rank": 15,
+    "appid": 553850,
+    "name": "HELLDIVERS™ 2",
+    "avg_players": 51578,
+    "gain": "",
+    "peak_players": 162997
+  },
+  {
+    "rank": 16,
+    "appid": 431960,
+    "name": "Wallpaper Engine",
+    "avg_players": 50908,
+    "gain": "",
+    "peak_players": 133127
+  },
+  {
+    "rank": 17,
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "avg_players": 46329,
+    "gain": "",
+    "peak_players": 101243
+  },
+  {
+    "rank": 18,
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "avg_players": 45230,
+    "gain": "",
+    "peak_players": 112862
+  },
+  {
+    "rank": 19,
+    "appid": 381210,
+    "name": "Dead by Daylight",
+    "avg_players": 44926,
+    "gain": "",
+    "peak_players": 82506
+  },
+  {
+    "rank": 20,
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "avg_players": 43665,
+    "gain": "",
+    "peak_players": 59650
+  },
+  {
+    "rank": 21,
+    "appid": 1366800,
+    "name": "Crosshair X",
+    "avg_players": 40495,
+    "gain": "",
+    "peak_players": 63791
+  },
+  {
+    "rank": 22,
+    "appid": 218620,
+    "name": "PAYDAY 2",
+    "avg_players": 35685,
+    "gain": "",
+    "peak_players": 42341
+  },
+  {
+    "rank": 23,
+    "appid": 236390,
+    "name": "War Thunder",
+    "avg_players": 35656,
+    "gain": "",
+    "peak_players": 101988
+  },
+  {
+    "rank": 24,
+    "appid": 230410,
+    "name": "Warframe",
+    "avg_players": 35631,
+    "gain": "",
+    "peak_players": 73021
+  },
+  {
+    "rank": 25,
+    "appid": 2507950,
+    "name": "Delta Force",
+    "avg_players": 34828,
+    "gain": "",
+    "peak_players": 160918
+  },
+  {
+    "rank": 26,
+    "appid": 438100,
+    "name": "VRChat",
+    "avg_players": 34805,
+    "gain": "",
+    "peak_players": 55832
+  },
+  {
+    "rank": 27,
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "avg_players": 34465,
+    "gain": "",
+    "peak_players": 95470
+  },
+  {
+    "rank": 28,
+    "appid": 2669320,
+    "name": "EA SPORTS FC 25",
+    "avg_players": 34383,
+    "gain": "",
+    "peak_players": 95099
+  },
+  {
+    "rank": 29,
+    "appid": 251570,
+    "name": "7 Days to Die",
+    "avg_players": 33345,
+    "gain": "",
+    "peak_players": 40560
+  },
+  {
+    "rank": 30,
+    "appid": 1245620,
+    "name": "ELDEN RING",
+    "avg_players": 32362,
+    "gain": "",
+    "peak_players": 57671
+  },
+  {
+    "rank": 31,
+    "appid": 221100,
+    "name": "DayZ",
+    "avg_players": 31728,
+    "gain": "",
+    "peak_players": 67770
+  },
+  {
+    "rank": 32,
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced",
+    "avg_players": 30499,
+    "gain": "",
+    "peak_players": 79947
+  },
+  {
+    "rank": 33,
+    "appid": 2252570,
+    "name": "Football Manager 2024",
+    "avg_players": 30341,
+    "gain": "",
+    "peak_players": 83360
+  },
+  {
+    "rank": 34,
+    "appid": 1222670,
+    "name": "The Sims™ 4",
+    "avg_players": 28063,
+    "gain": "",
+    "peak_players": 45705
+  },
+  {
+    "rank": 35,
+    "appid": 3188910,
+    "name": "Waifu",
+    "avg_players": 27616,
+    "gain": "",
+    "peak_players": 31386
+  },
+  {
+    "rank": 36,
+    "appid": 480,
+    "name": "Spacewar",
+    "avg_players": 27348,
+    "gain": "",
+    "peak_players": 88754
+  },
+  {
+    "rank": 37,
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "avg_players": 27158,
+    "gain": "",
+    "peak_players": 52111
+  },
+  {
+    "rank": 38,
+    "appid": 394360,
+    "name": "Hearts of Iron IV",
+    "avg_players": 24847,
+    "gain": "",
+    "peak_players": 63362
+  },
+  {
+    "rank": 39,
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "avg_players": 23840,
+    "gain": "",
+    "peak_players": 66882
+  },
+  {
+    "rank": 40,
+    "appid": 294100,
+    "name": "RimWorld",
+    "avg_players": 23730,
+    "gain": "",
+    "peak_players": 37773
+  },
+  {
+    "rank": 41,
+    "appid": 1085660,
+    "name": "Destiny 2",
+    "avg_players": 23674,
+    "gain": "",
+    "peak_players": 45469
+  },
+  {
+    "rank": 42,
+    "appid": 346110,
+    "name": "ARK: Survival Evolved",
+    "avg_players": 23647,
+    "gain": "",
+    "peak_players": 65286
+  },
+  {
+    "rank": 43,
+    "appid": 322170,
+    "name": "Geometry Dash",
+    "avg_players": 23536,
+    "gain": "",
+    "peak_players": 50092
+  },
+  {
+    "rank": 44,
+    "appid": 1671210,
+    "name": "DELTARUNE",
+    "avg_players": 22764,
+    "gain": "",
+    "peak_players": 69251
+  },
+  {
+    "rank": 45,
+    "appid": 108600,
+    "name": "Project Zomboid",
+    "avg_players": 22122,
+    "gain": "",
+    "peak_players": 40929
+  },
+  {
+    "rank": 46,
+    "appid": 2357570,
+    "name": "Overwatch® 2",
+    "avg_players": 22042,
+    "gain": "",
+    "peak_players": 39812
+  },
+  {
+    "rank": 47,
+    "appid": 1091500,
+    "name": "Cyberpunk 2077",
+    "avg_players": 22035,
+    "gain": "",
+    "peak_players": 57605
+  },
+  {
+    "rank": 48,
+    "appid": 3164500,
+    "name": "Schedule I",
+    "avg_players": 21680,
+    "gain": "",
+    "peak_players": 67502
+  },
+  {
+    "rank": 49,
+    "appid": 526870,
+    "name": "Satisfactory",
+    "avg_players": 21324,
+    "gain": "",
+    "peak_players": 38217
+  },
+  {
+    "rank": 50,
+    "appid": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "avg_players": 21140,
+    "gain": "",
+    "peak_players": 43781
+  }
+]

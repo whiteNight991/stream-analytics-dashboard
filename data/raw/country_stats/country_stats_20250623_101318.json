@@ -1,0 +1,140 @@
+{
+  "KR": {
+    "country_code": "KR",
+    "timestamp": "20250623_101245",
+    "top_sellers": [
+      {
+        "id": 578080,
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™"
+      },
+      {
+        "id": 960170,
+        "name": "DJMAX RESPECT V"
+      },
+      {
+        "id": 3241760,
+        "name": "Mirai's Midnight Stream"
+      },
+      {
+        "id": 730,
+        "name": "Counter-Strike 2"
+      },
+      {
+        "id": 3773070,
+        "name": "DJMAX RESPECT V - V LIBERTY III PACK"
+      },
+      {
+        "id": 2358720,
+        "name": "Black Myth: Wukong"
+      },
+      {
+        "id": 2139460,
+        "name": "Once Human"
+      },
+      {
+        "id": 2584990,
+        "name": "Shadowverse: Worlds Beyond"
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH"
+      }
+    ]
+  },
+  "US": {
+    "country_code": "US",
+    "timestamp": "20250623_101258",
+    "top_sellers": [
+      {
+        "id": 578080,
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™"
+      },
+      {
+        "id": 960170,
+        "name": "DJMAX RESPECT V"
+      },
+      {
+        "id": 3241760,
+        "name": "Mirai's Midnight Stream"
+      },
+      {
+        "id": 730,
+        "name": "Counter-Strike 2"
+      },
+      {
+        "id": 2358720,
+        "name": "Black Myth: Wukong"
+      },
+      {
+        "id": 3773070,
+        "name": "DJMAX RESPECT V - V LIBERTY III PACK"
+      },
+      {
+        "id": 2139460,
+        "name": "Once Human"
+      },
+      {
+        "id": 2584990,
+        "name": "Shadowverse: Worlds Beyond"
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH"
+      }
+    ]
+  },
+  "JP": {
+    "country_code": "JP",
+    "timestamp": "20250623_101312",
+    "top_sellers": [
+      {
+        "id": 578080,
+        "name": "PUBG: BATTLEGROUNDS"
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™"
+      },
+      {
+        "id": 960170,
+        "name": "DJMAX RESPECT V"
+      },
+      {
+        "id": 3241760,
+        "name": "Mirai's Midnight Stream"
+      },
+      {
+        "id": 730,
+        "name": "Counter-Strike 2"
+      },
+      {
+        "id": 3773070,
+        "name": "DJMAX RESPECT V - V LIBERTY III PACK"
+      },
+      {
+        "id": 2358720,
+        "name": "Black Myth: Wukong"
+      },
+      {
+        "id": 2139460,
+        "name": "Once Human"
+      },
+      {
+        "id": 2584990,
+        "name": "Shadowverse: Worlds Beyond"
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH"
+      }
+    ]
+  }
+}

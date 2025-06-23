@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-06-17T11:44:47.461897",
+    "month": "may_2025",
+    "rank": 1,
+    "name": "샘플 인기 출시 게임 1",
+    "appid": "123456",
+    "release_date": "2025-05-01",
+    "price": "$29.99",
+    "rating": "Very Positive",
+    "tags": [
+      "Action",
+      "Adventure",
+      "New Release"
+    ]
+  },
+  {
+    "timestamp": "2025-06-17T11:44:47.461897",
+    "month": "may_2025",
+    "rank": 2,
+    "name": "샘플 인기 출시 게임 2",
+    "appid": "123457",
+    "release_date": "2025-05-02",
+    "price": "$19.99",
+    "rating": "Positive",
+    "tags": [
+      "RPG",
+      "Strategy",
+      "New Release"
+    ]
+  },
+  {
+    "timestamp": "2025-06-17T11:44:47.461897",
+    "month": "may_2025",
+    "rank": 3,
+    "name": "샘플 인기 출시 게임 3",
+    "appid": "123458",
+    "release_date": "2025-05-03",
+    "price": "$39.99",
+    "rating": "Overwhelmingly Positive",
+    "tags": [
+      "Simulation",
+      "Indie",
+      "New Release"
+    ]
+  }
+]

@@ -1,0 +1,3802 @@
+{
+  "KR": {
+    "country_code": "KR",
+    "timestamp": "20250617_095028",
+    "top_sellers": [
+      {
+        "id": 24542,
+        "name": "DELUXE EDITION - DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 73
+      },
+      {
+        "id": 3371120,
+        "name": "DJMAX RESPECT V - V LIBERTY II PACK",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 24548,
+        "name": "COMPLETE EDITION - DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 24546,
+        "name": "COLLABORATION BUNDLE - DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 72
+      },
+      {
+        "id": 3653040,
+        "name": "DJMAX RESPECT V - Blue Archive PACK",
+        "price": 0.0,
+        "discount": 30
+      },
+      {
+        "id": 3038800,
+        "name": "DJMAX RESPECT V - V LIBERTY PACK",
+        "price": 0.0,
+        "discount": 65
+      },
+      {
+        "id": 960170,
+        "name": "DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 80
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 24544,
+        "name": "LEGACY BUNDLE - DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 80
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 960170,
+        "name": "DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 80
+      },
+      {
+        "id": 3653040,
+        "name": "DJMAX RESPECT V - Blue Archive PACK",
+        "price": 0.0,
+        "discount": 30
+      },
+      {
+        "id": 2384580,
+        "name": "DYNASTY WARRIORS: ORIGINS",
+        "price": 0.0,
+        "discount": 23
+      },
+      {
+        "id": 1062090,
+        "name": "Timberborn",
+        "price": 0.0,
+        "discount": 30
+      },
+      {
+        "id": 3371120,
+        "name": "DJMAX RESPECT V - V LIBERTY II PACK",
+        "price": 0.0,
+        "discount": 40
+      }
+    ]
+  },
+  "US": {
+    "country_code": "US",
+    "timestamp": "20250617_095030",
+    "top_sellers": [
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      }
+    ]
+  },
+  "JP": {
+    "country_code": "JP",
+    "timestamp": "20250617_095031",
+    "top_sellers": [
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 24548,
+        "name": "COMPLETE EDITION - DJMAX RESPECT V",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3241660,
+        "name": "R.E.P.O.",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2427700,
+        "name": "Backpack Battles",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 2427700,
+        "name": "Backpack Battles",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 132506,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES + THE PHANTOM PAIN",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1325200,
+        "name": "Nioh 2 – The Complete Edition",
+        "price": 0.0,
+        "discount": 55
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "CN": {
+    "country_code": "CN",
+    "timestamp": "20250617_095033",
+    "top_sellers": [
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 431960,
+        "name": "Wallpaper Engine",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 54029,
+        "name": "Prime Status Upgrade",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 2277560,
+        "name": "WUCHANG: Fallen Feathers",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3607510,
+        "name": "MAGLA",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 322330,
+        "name": "Don't Starve Together",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 322330,
+        "name": "Don't Starve Together",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 129576,
+        "name": "Dying Light 2: Reloaded Edition",
+        "price": 0.0,
+        "discount": 67
+      }
+    ]
+  },
+  "GB": {
+    "country_code": "GB",
+    "timestamp": "20250617_095034",
+    "top_sellers": [
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 129576,
+        "name": "Dying Light 2: Reloaded Edition",
+        "price": 0.0,
+        "discount": 67
+      }
+    ]
+  },
+  "DE": {
+    "country_code": "DE",
+    "timestamp": "20250617_095036",
+    "top_sellers": [
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3607510,
+        "name": "MAGLA",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2863640,
+        "name": "The Midnight Walk",
+        "price": 0.0,
+        "discount": 20
+      }
+    ]
+  },
+  "FR": {
+    "country_code": "FR",
+    "timestamp": "20250617_095037",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 548430,
+        "name": "Deep Rock Galactic",
+        "price": 0.0,
+        "discount": 67
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 886315,
+        "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "RU": {
+    "country_code": "RU",
+    "timestamp": "20250617_095038",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 54029,
+        "name": "Prime Status Upgrade",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3241660,
+        "name": "R.E.P.O.",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 548430,
+        "name": "Deep Rock Galactic",
+        "price": 0.0,
+        "discount": 67
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3636840,
+        "name": "Combat Master: Battle to DEATH",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 548430,
+        "name": "Deep Rock Galactic",
+        "price": 0.0,
+        "discount": 67
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 132479,
+        "name": "METAL GEAR SOLID V: The Definitive Experience",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 2456740,
+        "name": "inZOI",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 235460,
+        "name": "METAL GEAR RISING: REVENGEANCE",
+        "price": 0.0,
+        "discount": 60
+      }
+    ]
+  },
+  "BR": {
+    "country_code": "BR",
+    "timestamp": "20250617_095040",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 54029,
+        "name": "Prime Status Upgrade",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 3241660,
+        "name": "R.E.P.O.",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1196590,
+        "name": "Resident Evil Village",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "IN": {
+    "country_code": "IN",
+    "timestamp": "20250617_095042",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "CA": {
+    "country_code": "CA",
+    "timestamp": "20250617_095043",
+    "top_sellers": [
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "AU": {
+    "country_code": "AU",
+    "timestamp": "20250617_095045",
+    "top_sellers": [
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 55063,
+        "name": "Dune: Awakening - Ultimate Edition",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1093759,
+        "name": "DREDGE - Complete Edition",
+        "price": 0.0,
+        "discount": 33
+      }
+    ]
+  },
+  "SG": {
+    "country_code": "SG",
+    "timestamp": "20250617_095046",
+    "top_sellers": [
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1874880,
+        "name": "Arma Reforger",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2246340,
+        "name": "Monster Hunter Wilds",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 55116,
+        "name": "Dune: Awakening - Deluxe Edition",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 51845,
+        "name": "Dave & Ichiban Bundle",
+        "price": 0.0,
+        "discount": 43
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 129576,
+        "name": "Dying Light 2: Reloaded Edition",
+        "price": 0.0,
+        "discount": 67
+      },
+      {
+        "id": 1093759,
+        "name": "DREDGE - Complete Edition",
+        "price": 0.0,
+        "discount": 33
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "TW": {
+    "country_code": "TW",
+    "timestamp": "20250617_095048",
+    "top_sellers": [
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 2246340,
+        "name": "Monster Hunter Wilds",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 2384580,
+        "name": "DYNASTY WARRIORS: ORIGINS",
+        "price": 0.0,
+        "discount": 23
+      },
+      {
+        "id": 2427700,
+        "name": "Backpack Battles",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 55259,
+        "name": "Cast n Chill - Supporter Pack",
+        "price": 0.0,
+        "discount": 16
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1196590,
+        "name": "Resident Evil Village",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2384580,
+        "name": "DYNASTY WARRIORS: ORIGINS",
+        "price": 0.0,
+        "discount": 23
+      },
+      {
+        "id": 2427700,
+        "name": "Backpack Battles",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1562430,
+        "name": "DREDGE",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1325200,
+        "name": "Nioh 2 – The Complete Edition",
+        "price": 0.0,
+        "discount": 55
+      }
+    ]
+  },
+  "HK": {
+    "country_code": "HK",
+    "timestamp": "20250617_095050",
+    "top_sellers": [
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 431960,
+        "name": "Wallpaper Engine",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 54029,
+        "name": "Prime Status Upgrade",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3563050,
+        "name": "Victoria 3: Expansion Pass 2",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 2427700,
+        "name": "Backpack Battles",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 322330,
+        "name": "Don't Starve Together",
+        "price": 0.0,
+        "discount": 66
+      },
+      {
+        "id": 2952690,
+        "name": "Witch of Eclipse",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 457140,
+        "name": "Oxygen Not Included",
+        "price": 0.0,
+        "discount": 70
+      },
+      {
+        "id": 2456740,
+        "name": "inZOI",
+        "price": 0.0,
+        "discount": 10
+      }
+    ]
+  },
+  "TH": {
+    "country_code": "TH",
+    "timestamp": "20250617_095051",
+    "top_sellers": [
+      {
+        "id": 3489700,
+        "name": "Stellar Blade™",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 52798,
+        "name": "Forza Motorsport and Forza Horizon 5 Premium Editions Bundle",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 2531310,
+        "name": "The Last of Us™ Part II Remastered",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 1196590,
+        "name": "Resident Evil Village",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 2456740,
+        "name": "inZOI",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "ID": {
+    "country_code": "ID",
+    "timestamp": "20250617_095053",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "MY": {
+    "country_code": "MY",
+    "timestamp": "20250617_095055",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "PH": {
+    "country_code": "PH",
+    "timestamp": "20250617_095056",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3147090,
+        "name": "PUNCHBALL",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  },
+  "VN": {
+    "country_code": "VN",
+    "timestamp": "20250617_095058",
+    "top_sellers": [
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1172710,
+        "name": "Dune: Awakening",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1285190,
+        "name": "Borderlands 4",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1604270,
+        "name": "Broken Arrow",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 1675200,
+        "name": "Steam Deck",
+        "price": 0.0,
+        "discount": 0
+      },
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 2138720,
+        "name": "REMATCH",
+        "price": 0.0,
+        "discount": 0
+      }
+    ],
+    "new_releases": [
+      {
+        "id": 3480200,
+        "name": "The Shadow of the Warring States Period",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3246090,
+        "name": "No Way Home",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3599220,
+        "name": "Zombie Demolition: Infinite Zombie Shooter",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2989270,
+        "name": "A Tithe in Blood",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3440310,
+        "name": "Hexcavator",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3379280,
+        "name": "GIRLFRIENDS: OFFICE!",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2596300,
+        "name": "Play With Your Cat! - A Virtual Toy Box",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3561240,
+        "name": "Heroes Unhinged",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 2810730,
+        "name": "A Building Full of Cats 2",
+        "price": 0.0,
+        "release_date": ""
+      },
+      {
+        "id": 3637450,
+        "name": "The Forgotten Mine",
+        "price": 0.0,
+        "release_date": ""
+      }
+    ],
+    "specials": [
+      {
+        "id": 3527290,
+        "name": "PEAK",
+        "price": 0.0,
+        "discount": 38
+      },
+      {
+        "id": 3483740,
+        "name": "Cast n Chill",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price": 0.0,
+        "discount": 20
+      },
+      {
+        "id": 1601570,
+        "name": "The Alters",
+        "price": 0.0,
+        "discount": 10
+      },
+      {
+        "id": 1868140,
+        "name": "DAVE THE DIVER",
+        "price": 0.0,
+        "discount": 40
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 371970,
+        "name": "Barony",
+        "price": 0.0,
+        "discount": 50
+      },
+      {
+        "id": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price": 0.0,
+        "discount": 60
+      },
+      {
+        "id": 1252652,
+        "name": "Resident Evil 7 Gold Edition & Village Gold Edition",
+        "price": 0.0,
+        "discount": 75
+      },
+      {
+        "id": 2050650,
+        "name": "Resident Evil 4",
+        "price": 0.0,
+        "discount": 50
+      }
+    ]
+  }
+}

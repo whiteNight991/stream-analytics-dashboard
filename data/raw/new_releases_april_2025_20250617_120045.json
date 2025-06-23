@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-06-17T12:00:45.156590",
+    "month": "april_2025",
+    "rank": 1,
+    "name": "4월 인기 출시 게임 1",
+    "appid": "123459",
+    "release_date": "2025-04-01",
+    "price": "$24.99",
+    "rating": "Very Positive",
+    "tags": [
+      "Horror",
+      "Survival"
+    ]
+  },
+  {
+    "timestamp": "2025-06-17T12:00:45.156590",
+    "month": "april_2025",
+    "rank": 2,
+    "name": "4월 인기 출시 게임 2",
+    "appid": "123460",
+    "release_date": "2025-04-02",
+    "price": "$14.99",
+    "rating": "Positive",
+    "tags": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "timestamp": "2025-06-17T12:00:45.156590",
+    "month": "april_2025",
+    "rank": 3,
+    "name": "4월 인기 출시 게임 3",
+    "appid": "123461",
+    "release_date": "2025-04-03",
+    "price": "$49.99",
+    "rating": "Overwhelmingly Positive",
+    "tags": [
+      "Racing",
+      "Sports"
+    ]
+  }
+]

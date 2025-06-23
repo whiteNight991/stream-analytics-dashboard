@@ -115,11 +115,11 @@ ehthumbs.db
 Thumbs.db
 
 # Data files (optional - you can remove this if you want to include sample data)
-data/raw/*.json
-data/raw/country_stats/
-*.png
-*.jpg
-*.jpeg
+# data/raw/*.json
+# data/raw/country_stats/
+# *.png
+# *.jpg
+# *.jpeg
 
 # Chrome driver
 chromedriver.exe

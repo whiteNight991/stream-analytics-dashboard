@@ -1,0 +1,169 @@
+{
+  "730": {
+    "name": "Counter-Strike 2",
+    "genres": [
+      "Action",
+      "FPS",
+      "Shooter"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Valve Anti-Cheat enabled"
+    ],
+    "release_date": "2023-09-27",
+    "price": 0.0,
+    "short_description": "Counter-Strike 2 is the largest technical leap forward in Counter-Strike history.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg"
+  },
+  "570": {
+    "name": "Dota 2",
+    "genres": [
+      "Action",
+      "Strategy",
+      "MOBA"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Valve Anti-Cheat enabled"
+    ],
+    "release_date": "2013-07-09",
+    "price": 0.0,
+    "short_description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg"
+  },
+  "1172470": {
+    "name": "Apex Legends",
+    "genres": [
+      "Action",
+      "Adventure",
+      "FPS"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Battle Royale"
+    ],
+    "release_date": "2020-11-05",
+    "price": 0.0,
+    "short_description": "Apex Legends is the award-winning, free-to-play Hero shooter from Respawn Entertainment.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg"
+  },
+  "252490": {
+    "name": "Rust",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Survival"
+    ],
+    "release_date": "2018-02-08",
+    "price": 39.99,
+    "short_description": "The only aim in Rust is to survive. Everything wants you to die - the island's wildlife and other inhabitants.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg"
+  },
+  "271590": {
+    "name": "Grand Theft Auto V",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Single-player"
+    ],
+    "release_date": "2015-04-14",
+    "price": 29.99,
+    "short_description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg"
+  },
+  "578080": {
+    "name": "PUBG: BATTLEGROUNDS",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Battle Royale"
+    ],
+    "categories": [
+      "Multi-player",
+      "Online PvP",
+      "Battle Royale"
+    ],
+    "release_date": "2017-12-21",
+    "price": 0.0,
+    "short_description": "PUBG: BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg"
+  },
+  "1091500": {
+    "name": "Cyberpunk 2077",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "RPG",
+      "Story Rich"
+    ],
+    "release_date": "2020-12-10",
+    "price": 59.99,
+    "short_description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg"
+  },
+  "1245620": {
+    "name": "Elden Ring",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "RPG",
+      "Souls-like"
+    ],
+    "release_date": "2022-02-25",
+    "price": 59.99,
+    "short_description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
+  },
+  "1222670": {
+    "name": "The Witcher 3: Wild Hunt",
+    "genres": [
+      "RPG",
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "RPG",
+      "Story Rich"
+    ],
+    "release_date": "2015-05-19",
+    "price": 39.99,
+    "short_description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg"
+  },
+  "1144200": {
+    "name": "Red Dead Redemption 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Story Rich"
+    ],
+    "release_date": "2019-12-05",
+    "price": 59.99,
+    "short_description": "Red Dead Redemption 2 is the epic tale of Arthur Morgan and the Van der Linde gang.",
+    "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1144200/header.jpg"
+  }
+}
