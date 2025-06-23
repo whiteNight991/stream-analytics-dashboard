@@ -1,0 +1,63 @@
+/* steam_analytics/dashboard/static/style.css */
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: #f0f2f6;
+    color: #333;
+}
+
+.stApp {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #004d99;
+    font-weight: bold;
+}
+
+.st-emotion-cache-1cypd8d {
+    background-color: #e6f2ff; /* Sidebar background */
+    border-right: 1px solid #cce0ff;
+}
+
+.stButton>button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: #0056b3;
+}
+
+.stSelectbox {
+    border-radius: 5px;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 5px;
+}
+
+/* Dataframe styling */
+.dataframe {
+    font-size: 14px;
+}
+
+.dataframe th {
+    background-color: #007bff !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.dataframe tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.dataframe td {
+    padding: 8px;
+} 

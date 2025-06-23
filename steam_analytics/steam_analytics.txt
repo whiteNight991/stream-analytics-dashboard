@@ -1,0 +1,78 @@
+# Steam Analytics Dashboard
+# 스팀 게임 분석 대시보드
+
+## 주요 기능
+
+### 1. Top 10 동시접속자수
+- 실시간 스팀 Top 100 게임 중 상위 10개 게임의 동시접속자수 분석
+- 게임명, 현재 접속자수, 최고 접속자수, 장르, 출시일 정보 표시
+- 인터랙티브 바 차트로 시각화
+
+### 2. 인기 장르 분석
+- 장르별 현재 접속자수 통계
+- 장르별 게임 수 통계
+- 장르별 평균 접속자수 분석
+- 원형 차트와 상세 통계 테이블 제공
+- 접속자수/게임수/평균 접속자수 기준 정렬 가능
+
+### 3. 인기 카테고리 분석
+- 카테고리별 현재 접속자수 통계
+- 카테고리별 게임 수 통계
+- 카테고리별 평균 접속자수 분석
+- 상세 통계 테이블 제공
+
+### 4. 게임 세부 검색
+- 개별 게임의 상세 정보 검색
+- 게임명, 장르, 카테고리, 출시일, 가격, 설명 정보
+- 게임 헤더 이미지 표시
+
+## 데이터 소스
+- Steam Charts API를 통한 실시간 Top 100 게임 데이터
+- Steam API를 통한 게임 메타데이터 (장르, 카테고리, 가격 등)
+- JSON 형태로 저장된 데이터 파일들
+
+## 기술 스택
+- **Frontend**: Streamlit (Python 웹 프레임워크)
+- **Data Processing**: Pandas, NumPy
+- **Visualization**: Matplotlib, Streamlit Charts
+- **Data Collection**: Selenium, Requests, Steam API
+- **Language**: Python 3.x
+
+## 프로젝트 구조
+```
+steam_analytics/
+│
+├── scraper/               # 데이터 수집 모듈
+│   ├── fetch_realtime_top100.py    # 실시간 Top 100 게임 데이터
+│   ├── fetch_game_metadata.py      # 게임 메타데이터 수집
+│   ├── fetch_new_releases.py       # 신규 출시 게임 데이터
+│   └── config.py                   # 설정 파일
+│
+├── analysis/              # 분석 모듈
+│   ├── genre_analysis.py           # 장르 분석
+│   ├── historical_trend_analysis.py # 히스토리컬 트렌드 분석
+│   ├── new_releases_analysis.py    # 신규 출시 분석
+│   └── top10_overview.py           # Top 10 개요
+│
+├── dashboard/             # 대시보드
+│   ├── streamlit_app.py            # 메인 Streamlit 앱
+│   └── static/
+│       └── style.css               # CSS 스타일
+│
+└── data/                  # 데이터 저장소
+    └── raw/               # 원본 데이터
+        ├── top100_games_*.json     # Top 100 게임 데이터
+        ├── game_metadata_*.json    # 게임 메타데이터
+        └── new_releases_*.json     # 신규 출시 데이터
+```
+
+## 실행 방법
+```bash
+# 프로젝트 루트 디렉토리에서
+streamlit run steam_analytics/dashboard/streamlit_app.py
+```
+
+## 데이터 업데이트
+- 스크레이퍼를 수동으로 실행하여 최신 데이터 수집
+- 캐시된 데이터는 1시간 동안 유지
+- 실시간 데이터는 Steam Charts와 Steam API에서 직접 수집
